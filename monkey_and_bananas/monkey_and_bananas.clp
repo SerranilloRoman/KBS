@@ -146,4 +146,5 @@
     (retract ?ocf)
 )
 
+;; Usar (watch rules) para ver el proceso del mono
 
