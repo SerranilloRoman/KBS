@@ -1,0 +1,7 @@
+(load "monkey_and_bananas_start.clp")
+(facts)
+(reset)
+(watch rules)
+(load "monkey_and_bananas.clp")
+(run)
+(facts)
